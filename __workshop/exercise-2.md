@@ -2,7 +2,7 @@
 
 ![exercise 2](../__lecture/assets/exercise-2.gif)
 
-For this exercise, the frontend code is complete. We're using code similar to what you built in exercise 1. All code is to be written in the `server.js` file.
+<!-- For this exercise, the frontend code is complete. We're using code similar to what you built in exercise 1. All code is to be written in the `server.js` file.
 
 So. Our monkey is more responsive than the cat, but not by much. When the user messages the monkey, it will respond a random message.
 
@@ -23,5 +23,8 @@ const messages = [
   "🙊",
   "🙈",
   "🙉",
-];
+]; -->
+
+```
+
 ```
